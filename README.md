@@ -18,8 +18,8 @@
 
 * Login
 
-- Login User Page to Login User
-- Registration Required to Login
+  - Login User Page to Login User
+  - Registration Required to Login
 
 * Users
 
@@ -32,6 +32,6 @@
 
 * Contact Form
 
-- All Feilds are required + Validation
-- Once Contact Added, Contact List will update
-- Added Contacts can be Edited & Deleted
+  - All Feilds are required + Validation
+  - Once Contact Added, Contact List will update
+  - Added Contacts can be Edited & Deleted
